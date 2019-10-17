@@ -1,6 +1,6 @@
 /*
      ECGR 4101/5101, Fall 2018: Lab 1
-     Group 11 (Avadhut Naik (801045233) and Dushyant Tomar (801043306))
+     Avadhut Naik (801045233)
 
      Using TI MSP 430, LED 1 (RED LED) blinks at 0.25 Hz, 50% duty cycle until Switch S2 is pressed. LED 2 is OFF.
      LED 2 (GREEN LED) blinks in its aftermath at 0.25 Hz, 50% duty cycle until Switch S2 is released while LED 1 turns OFF.

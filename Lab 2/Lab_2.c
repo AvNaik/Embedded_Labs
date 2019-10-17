@@ -1,6 +1,6 @@
 /*
  *  ECGR 4101/5101, Fall 2018: Lab 2
-    Group 11 (Avadhut Naik (801045233) and Dushyant Tomar (801043306))
+    Avadhut Naik (801045233)
 
          Utilizing TIMSP430 , the LED bar, consisting of 10 LED's, on the perfboard is controlled by the Potentiometer and Photo-Resistor.
     With both providing analog voltages as outputs, the same is utilized  by the 10 bit ADC of the TIMSP430 board to generate their

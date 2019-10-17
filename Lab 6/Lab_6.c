@@ -32,7 +32,7 @@
 
 /******************************************************************************************************************************************
  * ECGR 4101/5101, Fall 2018: Lab 6 - Internet-of-Things (IoT) and WiFi Version 2.0
-    Group 4 (Avadhut Naik (801045233) and Dushyant Tomar (801043306))
+    Avadhut Naik (801045233)
 
  *      Utilizing TI's SimpleLink Wi-Fi CC3220SF board with Internet-on-a-Chip and Wi-Fi capabilities, the digital temperature sensor (I2C compatible) of the board is utilized
  *  to provide temperature values. Extracting the degree celsius values from the same with the aid of the digital Temperature Sensor's datasheet, the same is converted into a

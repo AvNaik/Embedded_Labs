@@ -1,6 +1,6 @@
 /*
     ECGR 4101/5101, Fall 2018: Lab 3
-    Group 11 (Avadhut Naik (801045233) and Tim Lawrence (800195145))
+    Avadhut Naik (801045233)
 
         Utilizing TI's TIVA TM4C, the LED bar, consisting of 10 LED's, on the perfboard is controlled by the Potentiometer and the
     Photo-Resistor. With both providing analog voltages as outputs, the same is utilized  by the 12 bit ADC's of the TIVA TM4C

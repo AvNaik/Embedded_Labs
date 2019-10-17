@@ -1,6 +1,6 @@
 /*
     ECGR 4101/5101, Fall 2018: Lab 4
-    Group 11 (Avadhut Naik (801045233) and Dushyant Tomar (801043306))
+   Avadhut Naik (801045233)
 
         Utilizing a couple of TI's TIVA TM4C, one will be configured as a UART Receiver while the other will be the Transmitter. With both utilizing the same program,
     the selection of boards as transmitter and receiver shall be undertaken through pin 7 of Port A i.e. PA7, which has been connected to the VCC and set as input.

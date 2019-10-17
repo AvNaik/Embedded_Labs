@@ -1,6 +1,6 @@
 '''
     ECGR 4101/5101, Fall 2018: Lab 7 - Internet-of-Things (IoT) and WiFi Version 1.0
-    Group 4 (Avadhut Naik (801045233) and Dushyant Tomar (801043306))
+    Avadhut Naik (801045233)
     
     Utilizing TI’s CC3220SF board, the same has been configured as an HTTP server and connected to the Embedded Lab Wi-Fi (Embedded_Lab_EXT). With the board also obtaining accelerometer
 values along the X and Y axes through I2C Communication, the very values are accessed wirelessly through the python program below through HTTP GET method (API’s of which are defined

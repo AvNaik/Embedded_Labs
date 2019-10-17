@@ -1,6 +1,6 @@
 /**************************************************************************************************************************************************************************************************************
  *      ECGR 4101/5101, Fall 2018: Lab 5 - Using an LCD and an Accelerometer
-    Group 2 (Avadhut Naik (801045233) and Dushyant Tomar (801043306))
+    Avadhut Naik (801045233)
  *
  *      Utilizing TI's Educational Booster Pack MKII with TIVA TM4C123GH6PM, the LCD of the former displays a ball of 3 x 3 pixels upon startup. Depending on the
  *  tilt of the board determined by the on-board accelerometer of the MKII board, the ball will move around the LCD Screen of the board when the board is tilted by more
